@@ -110,18 +110,3 @@ for k,v in fruit.items():
 
 ##I have 3 banana
 ##I have 2 apple
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

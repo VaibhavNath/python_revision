@@ -18,14 +18,12 @@ sec(91000)
 sec(91121)  '''
 
 
-
 ##d:h:m:s
 ##01:00:00:00
 ##00:03:53:28
 ##01:01:00:00
 ##01:01:16:40
 ##01:01:18:41
-
 
 
 #automate file naming
@@ -42,7 +40,6 @@ print(f_name)
 
 
 ##Mon_Sep_20_14_10_20_2021.pkl
-
 
 
 '''import glob
@@ -65,8 +62,3 @@ print('second smallest',x[1])'''
 ##1
 ##second largest 27
 ##second smallest 5
-
-
-
-
-

@@ -46,7 +46,6 @@ False                   '''
 
 
 
-
 '''from string import ascii_uppercase as letters
 from random import choice
 a_f=list(letters[:6])
@@ -88,29 +87,3 @@ enter move (eg A5):''')
 ##6 O O O O O O
 ##  Q to Quit
 ##enter move (eg A5):q
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

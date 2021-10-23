@@ -134,31 +134,3 @@ print(len(dads))    #4
 
 ##['dad', 'ada', 'dad', 'add',
 ## 'dda', 'dad', 'ada', 'daa', 'aad', 'ada', 'dad', 'ada']
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

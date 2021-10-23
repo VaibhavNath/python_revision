@@ -31,6 +31,3 @@ def doorgame():
 
 
 doorgame()  '''
-
-
-
